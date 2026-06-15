@@ -107,7 +107,9 @@ La aplicación de técnicas de diseño de pruebas permitió mejorar la cobertura
 
 `Test Design` • `Equivalence Partitioning` • `Traceability Matrix` • `Test Cases` • `Functional Testing` • `Requirements Analysis` • `Process Modeling`
 
+<img width="376" height="200" alt="image" src="https://github.com/user-attachments/assets/d1632eff-fd43-417d-b812-9265ce7f9075" />
 
+<img width="471" height="360" alt="image" src="https://github.com/user-attachments/assets/341ecee7-8bc5-4bf8-b6bf-a23e0d23280b" />
 
 <!--
 - ## Documentos Visuales
