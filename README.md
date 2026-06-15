@@ -1,26 +1,115 @@
-# Proyecto Urban Routes
-# Sprint 2
-### Axel Van Dyck, Grupo 14
+# 🚗 Urban Routes - Sprint 2
 
-## Descripción
-En este sprint, se enfocó en la creación de clases de equivalencia y la validación de cálculos críticos en Urban Routes, como el tiempo y costo de viaje. Además, se trabajaron elementos de documentación visual para la aplicación.
+## Pruebas de Diseño y Validación de Cálculos
 
-## Tareas Realizadas
+**Autor:** Axel Van Dyck
+**Programa:** TripleTen
 
-- Clases de equivalencia: 
+---
 
-Se implementaron clases de equivalencia para los campos de nombre, apellido, distancia entre direcciones y hora de salida.
-- Matriz de Pruebas:
+# 📌 Descripción del Proyecto
 
-Se elaboró una matriz de pruebas para cubrir los casos de uso y sus variaciones.
-- Casos de Prueba:
+Este proyecto forma parte del programa de formación de TripleTen y está enfocado en la validación de lógica de negocio en la aplicación **Urban Routes**, con énfasis en el cálculo de tarifas, tiempo de viaje y comportamiento de los campos del formulario.
 
-Se realizaron pruebas exhaustivas para verificar el cálculo de tiempo y costo de viaje, asegurando precisión en el cálculo de tarifas.
+Durante este sprint se aplicaron técnicas de diseño de pruebas como clases de equivalencia, matrices de prueba y trazabilidad, junto con la elaboración de documentación visual para representar flujos del sistema.
 
-- Matriz de Trazabilidad: 
+---
 
-Se creó una matriz de trazabilidad para el caso de prueba "Cálculo de Tarifas", estableciendo la relación entre los requisitos y los casos de prueba.
+# 🎯 Objetivos de Aprendizaje
 
+* Aplicar clases de equivalencia en validación de datos.
+* Diseñar matrices de prueba para cobertura de escenarios.
+* Validar cálculos de negocio (tiempo y costo de viaje).
+* Construir matrices de trazabilidad entre requisitos y casos de prueba.
+* Documentar flujos funcionales mediante diagramas.
+* Analizar comportamiento de la lógica de una aplicación.
+* Representar visualmente procesos del sistema.
+
+---
+
+# 🧠 Técnicas de Diseño de Pruebas
+
+## Clases de Equivalencia
+
+Se definieron clases de equivalencia para los siguientes campos:
+
+* Nombre
+* Apellido
+* Distancia entre direcciones
+* Hora de salida
+
+El objetivo fue reducir el número de casos de prueba manteniendo cobertura representativa de escenarios válidos e inválidos.
+
+---
+
+## Matriz de Pruebas
+
+Se elaboró una matriz de pruebas para organizar y estructurar los distintos casos de uso, asegurando cobertura de variaciones relevantes en los datos de entrada.
+
+---
+
+## Casos de Prueba
+
+Se diseñaron y ejecutaron casos de prueba enfocados en la validación de:
+
+* Cálculo de tiempo de viaje
+* Cálculo de costo de viaje
+* Validación de resultados esperados según entradas definidas
+
+---
+
+## Matriz de Trazabilidad
+
+Se creó una matriz de trazabilidad para el caso de prueba de cálculo de tarifas, permitiendo relacionar requisitos funcionales con los casos de prueba diseñados.
+
+---
+
+# 🧩 Documentación Visual
+
+## Mapa Mental
+
+Se elaboró un mapa mental para organizar los flujos principales de la aplicación y sus funcionalidades clave.
+
+🔗 https://drive.google.com/file/d/11h5RPv7GihrLBej5m3PH2NjBpBrt1_fv/view?usp=sharing
+
+---
+
+## Diagrama de Flujo
+
+Se diseñó un diagrama de flujo para representar el proceso de cálculo de tarifas dentro de Urban Routes.
+
+🔗 https://drive.google.com/file/d/1iYugIc9XfMpHmeYgHTtExZ5vciCZ7aBZ/view?usp=drive_link
+
+---
+
+# 📊 Resultados Generales
+
+Este sprint permitió validar y estructurar el comportamiento del sistema en relación con cálculos críticos de negocio, asegurando consistencia en la lógica de tarifas y tiempos de viaje.
+
+La aplicación de técnicas de diseño de pruebas permitió mejorar la cobertura de escenarios y fortalecer la comprensión de la relación entre requisitos y casos de prueba.
+
+---
+
+# 🧱 Conceptos Practicados
+
+* Clases de equivalencia.
+* Matrices de prueba.
+* Diseño de casos de prueba.
+* Matriz de trazabilidad.
+* Validación de cálculos de negocio.
+* Análisis de requisitos.
+* Documentación de flujos.
+* Representación visual de procesos.
+
+---
+
+# 🚀 Skills
+
+`Test Design` • `Equivalence Partitioning` • `Traceability Matrix` • `Test Cases` • `Functional Testing` • `Requirements Analysis` • `Process Modeling`
+
+
+
+<!--
 - ## Documentos Visuales
 - Mapa Mental: 
 Se desarrolló un mapa mental para la organización de flujos y funcionalidades principales. 
@@ -34,7 +123,4 @@ Se creó un diagrama de flujo para visualizar el flujo de cálculo de tarifas en
   - Ver diagrama de flujo:
   
 
-      https://drive.google.com/file/d/1iYugIc9XfMpHmeYgHTtExZ5vciCZ7aBZ/view?usp=drive_link
-
-- ## Resultados Generales
-Este sprint permite optimizar y validar el flujo de cálculos críticos, asegurando una base sólida para funcionalidades futuras.
+      https://drive.google.com/file/d/1iYugIc9XfMpHmeYgHTtExZ5vciCZ7aBZ/view?usp=drive_link -->
